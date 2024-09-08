@@ -14,6 +14,6 @@ The dataset used for this project can be accessed via the following Google Drive
 
 ## Model Weights
 
-Pretrained model weights for ResNet-18 can be downloaded from the following link:
+Pretrained model weights for ResNet-18 can be downloaded from the following Google Drive link:
 
 [**Download ResNet-18 Model Weights**](https://drive.google.com/drive/folders/1Brbk5ArTyuvzP_RxlHo7llBo5jSj1HgN?usp=sharing)
