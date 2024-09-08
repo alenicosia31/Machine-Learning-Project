@@ -10,7 +10,7 @@ For detailed information about the methodology, results, and challenges, please 
 ## Dataset
 The dataset used for this project can be accessed via the following Google Drive link:
 
-[**Download Datasets**](https://drive.google.com/drive/folders/1CQQcPX5a0mq7wYsPxp58ixz9QF2h2s9N?usp=sharing)
+[**Download Dataset**](https://drive.google.com/drive/folders/1CQQcPX5a0mq7wYsPxp58ixz9QF2h2s9N?usp=sharing)
 
 ## Model Weights
 
