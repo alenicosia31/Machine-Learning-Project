@@ -5,8 +5,8 @@ This repository contains the code and resources developed for addressing **domai
 - **Fast R-CNN** for object detection
 - **ResNet18** for object classification
 
-For detailed information about the methodology, results, and challenges, please refer to the report: [**Tackling Domain Shift using Fast R-CNN and ResNet18**]
-(Tackling_Domain_Shift_using_Fast_R-CNN_and_ResNet18.pdf).
+For detailed information about the methodology, results, and challenges, please refer to the report: [**Tackling Domain Shift using Fast R-CNN and ResNet18**](Tackling%20Domain%20Shift%20using%20Fast%20R-CNN%20and%20ResNet18.pdf)
+
 
 ## Dataset
 The dataset used for this project can be accessed via the following Google Drive link:
