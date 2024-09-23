@@ -18,6 +18,8 @@ The dataset used for this project can be accessed via the following Google Drive
 
 [**Download Dataset**](https://drive.google.com/drive/folders/1CQQcPX5a0mq7wYsPxp58ixz9QF2h2s9N?usp=sharing)
 
+One of the nine classes was developed by me and a friend: we captured 300 photos and manually labeled the images. This direct experience taught me how to effectively create a dataset for similar tasks.
+
 ## Model Weights
 
 Pretrained model weights for ResNet-18 can be downloaded from the following Google Drive link:
