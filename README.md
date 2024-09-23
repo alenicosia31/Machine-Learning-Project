@@ -1,5 +1,8 @@
 # Machine Learning Project: Tackling Domain Shift in Object Classification
+## Introduction
+This was a university project where I first got hands-on experience with Machine Learning (and LaTeX :D). This small project allowed me to gain a solid understanding of how Neural Networks work, thanks in part to the various experiments I conducted before arriving at this simple solution.
 
+## Project
 This repository contains the code and resources developed for addressing **domain shift** in object classification tasks. The project implements a **two-step approach** that combines:
 
 - **Fast R-CNN** for object detection
